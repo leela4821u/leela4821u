@@ -1,7 +1,7 @@
 ![Banner](Gititdone_readme_repo.gif)
 
 # 💫 About Me:
-💻 Your Description goes here!
+💻 Techy
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leela4821u/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leela4821u/) 
